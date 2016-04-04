@@ -8,3 +8,4 @@
  - Gaussian Elimination
  - Montante
  - Gauss Jordan
+ - Inversa método cofactores
