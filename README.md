@@ -9,3 +9,4 @@
  - Montante
  - Gauss Jordan
  - Inversa método cofactores
+ - Integral por trapecios 
