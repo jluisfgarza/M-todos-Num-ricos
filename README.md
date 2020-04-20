@@ -1,6 +1,6 @@
-# NumericalMethods
+# Numerical Methods Class
 
-## Methods in Scilab
+## Algorithms in Scilab
 
  - Maclaurin
  - Biseccion
